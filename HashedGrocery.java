@@ -1,4 +1,3 @@
-package HW6;
 // Gabriello Lima, 112803276, R01
 import org.json.simple.JSONObject;
 import java.util.Hashtable;
